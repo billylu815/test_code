@@ -1,2 +1,2 @@
-# test_code
-test github functions
+# Python For Everybody
+Code for Coursera Python course series
